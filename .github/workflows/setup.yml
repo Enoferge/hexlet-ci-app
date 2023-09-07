@@ -1,4 +1,4 @@
-name: start
+name: Setup
 on: push
 jobs:
     up:
